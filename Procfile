@@ -1,1 +1,1 @@
-worker: python RIFT-voice to text bot.py
+worker: RIFT-voicetotextbot.py
